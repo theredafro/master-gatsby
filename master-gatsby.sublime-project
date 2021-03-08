@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"name": "frontend",
+			"path": "master-gatsby/gatsby",
+			"file_exclude_patterns": ["*-lock.json"],
+		},
+		{
+			"name": "backend",
+			"path": "master-gatsby/sanity",
+			"file_exclude_patterns": ["*-lock.json"],
+		}
+	],
+}
